@@ -27,9 +27,12 @@ C. Confusion Matrix & Accuracy/Loss curves included in outputs.
 Below are key visualizations that reflect the model's performance:
 
 1. Confusion Matrix
-![]
+![matrix](confusion_matrix.png)
 2. Accuracy vs. Validation Accuracy
+![accuracy](accuracy_graph.png)
 3. Loss vs. Validation Loss
+![loss](loss_graph.png)
+
 
 ## Real-Life Applications
 1. Medical Diagnosis Assistance: Pathologists can use AI to screen thousands of samples quickly.
