@@ -27,11 +27,13 @@ C. Confusion Matrix & Accuracy/Loss curves included in outputs.
 Below are key visualizations that reflect the model's performance:
 
 1. Confusion Matrix
-![matrix](confusion_matrix.png)
+<img width="584" height="432" alt="image" src="https://github.com/user-attachments/assets/9bdfa6c2-3569-48ee-9c9c-e9d9eaec3027" />
+
 2. Accuracy vs. Validation Accuracy
-![accuracy](accuracy_graph.png)
+<img width="708" height="470" alt="accuracy_graph" src="https://github.com/user-attachments/assets/8f284ddb-ce15-4053-bdb5-3ca7ee576d48" />
+
 3. Loss vs. Validation Loss
-![loss](loss_graph.png)
+<img width="700" height="470" alt="loss_graph" src="https://github.com/user-attachments/assets/a567dc6d-9773-4cfe-bf50-92f135016662" />
 
 
 ## Real-Life Applications
