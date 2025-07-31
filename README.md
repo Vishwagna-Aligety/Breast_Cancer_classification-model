@@ -31,6 +31,6 @@ A. Final Accuracy: 83.45% (Optimal)
 B. No Overfitting: EarlyStopping applied
 C. Confusion Matrix & Accuracy/Loss curves included in outputs.
 
-![Accuracy Graph](images/TrainingvsValidationAccuracy.png)
-![Loss Curves](images/TrainingvsValidationLoss.png) 
-![Confusion Matrix](images/ConfusionMatrix.png) 
+![Accuracy Graph](images/Training_vs_Validation_Accuracy.png)
+![Loss Curves](images/Training_vs_Validation_Loss.png) 
+![Confusion Matrix](images/Confusion_Matrix.png) 
