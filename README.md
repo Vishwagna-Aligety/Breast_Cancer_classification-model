@@ -30,7 +30,3 @@ You must provide your own `kaggle.json` (API key). This file is private and shou
 A. Final Accuracy: 83.45% (Optimal)
 B. No Overfitting: EarlyStopping applied
 C. Confusion Matrix & Accuracy/Loss curves included in outputs.
-
-![Accuracy Graph](images/Training_vs_Validation_Accuracy.png)
-![Loss Curves](images/Training_vs_Validation_Loss.png) 
-![Confusion Matrix](images/Confusion_Matrix.png) 
