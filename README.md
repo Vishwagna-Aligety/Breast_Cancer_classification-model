@@ -18,6 +18,23 @@ Dataset: [IDC Breast Cancer Histopathology Images](https://www.kaggle.com/paulti
 Instead of uploading the dataset manually (3GB+), this project uses the **Kaggle API** for direct downloading.  
 You must provide your own `kaggle.json` (API key). This file is private and should NOT be shared publicly.
 
+## Results
+A. Final Accuracy: 83.45% (Optimal)
+B. No Overfitting: EarlyStopping applied
+C. Confusion Matrix & Accuracy/Loss curves included in outputs.
+
+## Model Evaluation (with Images)
+Below are key visualizations that reflect the model's performance:
+
+1. Confusion Matrix
+![]
+2. Accuracy vs. Validation Accuracy
+3. Loss vs. Validation Loss
+
+## Real-Life Applications
+1. Medical Diagnosis Assistance: Pathologists can use AI to screen thousands of samples quickly.
+2. Telemedicine: Remote cancer detection in underserved areas.
+3. Drug Research: AI-based analysis accelerates discovery of cancer-targeting drugs.
 
 ##  How to Run
 1. Clone this repository:
@@ -25,8 +42,3 @@ You must provide your own `kaggle.json` (API key). This file is private and shou
 2. Open the notebook in Google Colab.
 3. Upload your kaggle.json file when prompted.
 4. Run all cells. The model will train and evaluate automatically.
-
-## Results
-A. Final Accuracy: 83.45% (Optimal)
-B. No Overfitting: EarlyStopping applied
-C. Confusion Matrix & Accuracy/Loss curves included in outputs.
